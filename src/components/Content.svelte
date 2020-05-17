@@ -5,8 +5,10 @@
 <style>
   
   .container {
-    height: 1500px;
-    color: black;
+    height: 100%;
+    background: #ffca18;
+    margin: 0px;
+    padding: 0px;
   }
 </style>
 

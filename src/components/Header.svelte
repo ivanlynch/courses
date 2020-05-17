@@ -67,6 +67,11 @@
     font-family: Arial, Helvetica, sans-serif;
   }
 
+  .header-menu-items:hover {
+    background-color: #ffca18;
+    color: #373232;
+  }
+
   .hero-subtitle {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #363232;
