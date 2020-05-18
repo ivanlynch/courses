@@ -3,15 +3,15 @@
     font-family: 'Sonsie One';
     font-style: normal;
     font-weight: 400;
-    src: url("./fonts/sonsie-one/sonsie-one.eot"); /* IE9 Compat Modes */
-    src: local("Sonsie One"), local("SonsieOne-Regular"),
-      url("./fonts/sonsie-one/sonsie-one.eot?#iefix")
-        format("embedded-opentype"),
-      /* IE6-IE8 */ url("./fonts/sonsie-one/sonsie-one.woff2") format("woff2"),
-      /* Super Modern Browsers */ url("./fonts/sonsie-one/sonsie-one.woff")
-        format("woff"),
-      /* Modern Browsers */ url("./fonts/sonsie-one/sonsie-one.ttf")
-        format("truetype"),
+    src: url('./fonts/sonsie-one/sonsie-one.eot'); /* IE9 Compat Modes */
+    src: local('Sonsie One'), local('SonsieOne-Regular'),
+      url('./fonts/sonsie-one/sonsie-one.eot?#iefix')
+        format('embedded-opentype'),
+      /* IE6-IE8 */ url('./fonts/sonsie-one/sonsie-one.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./fonts/sonsie-one/sonsie-one.woff')
+        format('woff'),
+      /* Modern Browsers */ url('./fonts/sonsie-one/sonsie-one.ttf')
+        format('truetype'),
       /* Safari, Android, iOS */
-        url("./fonts/sonsie-one/sonsie-one.svg#SonsieOne") format("svg"); /* Legacy iOS */
+        url('./fonts/sonsie-one/sonsie-one.svg#SonsieOne') format('svg'); /* Legacy iOS */
 }
