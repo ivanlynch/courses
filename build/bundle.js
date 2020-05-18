@@ -298,14 +298,14 @@ var app = (function () {
     		c() {
     			div3 = element("div");
 
-    			div3.innerHTML = `<div class="hero-image svelte-59tgnu"><div class="header-bar"><img class="header-logo svelte-59tgnu" src="./img/tierra.svg" alt="Courses Market Online"> 
-      <ul class="header-menu svelte-59tgnu"><li class="svelte-59tgnu"><a class="header-menu-items svelte-59tgnu" href="#/Ingresar">Ingresar</a></li> 
-        <li class="svelte-59tgnu"><a class="header-menu-items svelte-59tgnu" href="#/Registro">Registrarse</a></li></ul></div> 
-    <div class="hero-text svelte-59tgnu"><h1>E-Courses</h1> 
-      <p class="hero-subtitle svelte-59tgnu">The place where you find whatever you need</p></div> 
-    <svg class="hero-svg svelte-59tgnu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FFCA18" fill-opacity="1" d="M0,32L48,64C96,96,192,160,288,170.7C384,181,480,139,576,101.3C672,64,768,32,864,69.3C960,107,1056,213,1152,218.7C1248,224,1344,128,1392,80L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg></div>`;
+    			div3.innerHTML = `<div class="hero-image svelte-ewqrci"><div class="header-bar"><img class="header-logo svelte-ewqrci" src="./img/tierra.svg" alt="Courses Market Online"> 
+      <ul class="header-menu svelte-ewqrci"><li class="svelte-ewqrci"><a class="header-menu-items svelte-ewqrci" href="#/Ingresar">Ingresar</a></li> 
+        <li class="svelte-ewqrci"><a class="header-menu-items svelte-ewqrci" href="#/Registro">Registrarse</a></li></ul></div> 
+    <div class="hero-text svelte-ewqrci"><h1>E-Courses</h1> 
+      <p class="hero-subtitle svelte-ewqrci">The place where you find whatever you need</p></div> 
+    <svg class="hero-svg svelte-ewqrci" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FFCA18" fill-opacity="1" d="M0,32L48,64C96,96,192,160,288,170.7C384,181,480,139,576,101.3C672,64,768,32,864,69.3C960,107,1056,213,1152,218.7C1248,224,1344,128,1392,80L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg></div>`;
 
-    			attr(div3, "class", "header-container svelte-59tgnu");
+    			attr(div3, "class", "header-container svelte-ewqrci");
     		},
     		m(target, anchor) {
     			insert(target, div3, anchor);
