@@ -9,7 +9,7 @@
 
   .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("./img/image1.jpg");
+      url('./img/image1.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;

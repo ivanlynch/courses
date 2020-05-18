@@ -15,5 +15,5 @@
 </main>
 
 <style>
-	@import "/fonts.css";
+	@import "./fonts.css";
 </style>
