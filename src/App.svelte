@@ -15,5 +15,5 @@
 </main>
 
 <style>
-	@import "/courses/public/fonts.css";
+	@import "/courses/fonts.css";
 </style>
