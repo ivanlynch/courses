@@ -78,7 +78,7 @@
       </div>
     </div>
     <div class="cuadrado-body">
-      <img src="/img/auth.svg" alt="" />
+      <img src="./img/auth.svg" alt="" />
     </div>
   </div>
 </div>

@@ -9,7 +9,7 @@
 
   .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("/img/image1.jpg");
+      url("./img/image1.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -84,7 +84,7 @@
     <div class="header-bar">
       <img
         class="header-logo"
-        src="/img/tierra.svg"
+        src="./img/tierra.svg"
         alt="Courses Market Online" />
       <ul class="header-menu">
         <li>
